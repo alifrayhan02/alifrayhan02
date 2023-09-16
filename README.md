@@ -4,7 +4,7 @@
 
 # From Bits to Bolts | Code and Electronics Enthusiast
 
-Welcome to my GitHub! I'm an electronics engineering student who finds joy in programming. My journey involves unraveling the intricacies of circuits and diving into the world of algorithms. I'm continually learning and growing, From Python to C++, and from soldering to PCB design, I'm eager to share my discoveries and challenges with you. Join me as I embrace the exciting journey of learning multiple programming languages and electronics engineering.
+Hey, fellow explorers! I'm an electronics engineering student who finds joy in programming. My journey involves unraveling the intricacies of circuits and diving into the world of algorithms. I'm continually learning and growing, From Python to C++, and from soldering to PCB design, I'm eager to share my discoveries and challenges with you. Join me as I embrace the exciting journey of learning multiple programming languages and electronics engineering.
 
 ### Connect with me:
 
@@ -59,7 +59,8 @@ Welcome to my GitHub! I'm an electronics engineering student who finds joy in pr
   </a>
 </p>
 
-<details>
+
+<!-- <details>
 <summary>
   More stuff about me
 </summary>
@@ -93,7 +94,6 @@ Code
 
 </details>
 
-<!---
 alifrayhan02/alifrayhan02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
