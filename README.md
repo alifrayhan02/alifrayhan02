@@ -10,11 +10,11 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 
 ## Quick overview
 
