@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)<br>
 
-# I'm a Electronical Engineering Student in Politeknik Negeri Malang
+# From Bits to Bolts | Code and Electronics Enthusiast
 
 Welcome to my GitHub! I'm an electronics engineering student who finds joy in programming. My journey involves unraveling the intricacies of circuits and diving into the world of algorithms. I'm continually learning and growing, From Python to C++, and from soldering to PCB design, I'm eager to share my discoveries and challenges with you. Join me as I embrace the exciting journey of learning multiple programming languages and electronics engineering.
 
@@ -10,7 +10,6 @@ Welcome to my GitHub! I'm an electronics engineering student who finds joy in pr
 ### Connect with me:
 
 [![Gmail Badge](https://img.shields.io/badge/-alifrayhan02.02@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alifrayhan02.02@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-alif-rayhan-95381921a%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alif-rayhan-95381921a/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@AnakBuahAJ1-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=AnakBuahAJ1 "Follow on Twitter")
 
 ## Quick overview
