@@ -4,9 +4,8 @@
 
 # I'm a Electronical Engineering Student in Politeknik Negeri Malang
 
-- 👀 I’m interested in New Tech
-- 🌱 I’m currently learning everything
-- 📫 Trying to imporve myself everyday
+Welcome to my GitHub! I'm an electronics engineering student who finds joy in programming. My journey involves unraveling the intricacies of circuits and diving into the world of algorithms. I'm continually learning and growing, From Python to C++, and from soldering to PCB design, I'm eager to share my discoveries and challenges with you. Join me as I embrace the exciting journey of learning multiple programming languages and electronics engineering.
+
 
 ### Connect with me:
 
