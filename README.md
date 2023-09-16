@@ -1,10 +1,10 @@
-# Hey, fellow explorers! :wave:
+# Hi everyone :wave:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)<br>
 
 # From Bits to Bolts | Code and Electronics Enthusiast
 
-I'm an electronics engineering student who finds joy in programming. My journey involves unraveling the intricacies of circuits and diving into the world of algorithms. I'm continually learning and growing, From Python to C++, and from soldering to PCB design, I'm eager to share my discoveries and challenges with you. Join me as I embrace the exciting journey of learning multiple programming languages and electronics engineering.
+Welcome to my GitHub! I'm an electronics engineering student who finds joy in programming. My journey involves unraveling the intricacies of circuits and diving into the world of algorithms. I'm continually learning and growing, From Python to C++, and from soldering to PCB design, I'm eager to share my discoveries and challenges with you. Join me as I embrace the exciting journey of learning multiple programming languages and electronics engineering.
 
 ### Connect with me:
 
@@ -15,14 +15,21 @@ I'm an electronics engineering student who finds joy in programming. My journey 
 </a>
 <!-- Twitter -->
 <a href="https://twitter.com/AnakBuahAJ1" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
+                src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white">
 </a>
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/alif-rayhan-95381921a/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
 </a>
+<!-- Medium -->
+<a href="https://medium.com/@alifrayhan02.02" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white">
+</a>
+<!-- Ether -->
+<a href="https://etherscan.io/address/0x1C165E0791808b84479406ef41Cb2e135b646c96" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white">
+</a>
 </p>
-
 
 
 <h2>📊 Github Stats and Activity</h2>
