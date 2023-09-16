@@ -10,17 +10,11 @@
 
 ### Connect with me:
 
-[![website](https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](https://seeklogo.com/images/L/linkedin-icon-logo-05B2880899-seeklogo.com.png)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![Gmail Badge](https://img.shields.io/badge/-alifrayhan02.02@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alifrayhan02.02@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-alif-rayhan-95381921a%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alif-rayhan-95381921a/ "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@AnakBuahAJ1-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=AnakBuahAJ1 "Follow on Twitter")
 
 ## Quick overview
-
-- GitHub stats:  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifrayhan02&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alifrayhan02&hide_border=true" />
 
 
 <h2>📊 Github Stats and Activity</h2>
