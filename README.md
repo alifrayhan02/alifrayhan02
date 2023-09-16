@@ -5,7 +5,7 @@
 # I'm a Electronical Engineering Student in Politeknik Negeri Malang
 
 [![Twitter Badge](https://img.shields.io/badge/-@AnakBuahAJ1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anakbuahaj1)](https://twitter.com/anakbuahaj1)
-[![Linkedin Badge](https://img.shields.io/badge/-alif-rayhan-95381921a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alif-rayhan-95381921a/)](https://www.linkedin.com/in/alif-rayhan-95381921a/)
+[![Linkedin Badge](https://img.shields.io/badge/alif-rayhan-95381921a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alif-rayhan-95381921a/)](https://www.linkedin.com/in/alif-rayhan-95381921a/)
 [![Gmail Badge](https://img.shields.io/badge/-alifrayhan02.02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alifrayhan02.02@gmail.com)](mailto:alifrayhan02.02@gmail.com)
 
 - 👀 I’m interested in New Tech
