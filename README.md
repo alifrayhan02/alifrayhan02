@@ -1,10 +1,10 @@
-# Hi everyone :wave:
+# Hey, fellow explorers! :wave:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)<br>
 
 # From Bits to Bolts | Code and Electronics Enthusiast
 
-Hey, fellow explorers! I'm an electronics engineering student who finds joy in programming. My journey involves unraveling the intricacies of circuits and diving into the world of algorithms. I'm continually learning and growing, From Python to C++, and from soldering to PCB design, I'm eager to share my discoveries and challenges with you. Join me as I embrace the exciting journey of learning multiple programming languages and electronics engineering.
+I'm an electronics engineering student who finds joy in programming. My journey involves unraveling the intricacies of circuits and diving into the world of algorithms. I'm continually learning and growing, From Python to C++, and from soldering to PCB design, I'm eager to share my discoveries and challenges with you. Join me as I embrace the exciting journey of learning multiple programming languages and electronics engineering.
 
 ### Connect with me:
 
