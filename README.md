@@ -4,27 +4,25 @@
 
 # I'm a Electronical Engineering Student in Politeknik Negeri Malang
 
-[![Twitter Badge](https://img.shields.io/badge/-@AnakBuahAJ1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anakbuahaj1)](https://twitter.com/anakbuahaj1)
-[![Linkedin Badge](https://img.shields.io/badge/alif-rayhan-95381921a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alif-rayhan-95381921a/)](https://www.linkedin.com/in/alif-rayhan-95381921a/)
-[![Gmail Badge](https://img.shields.io/badge/-alifrayhan02.02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alifrayhan02.02@gmail.com)](mailto:alifrayhan02.02@gmail.com)
-
 - 👀 I’m interested in New Tech
 - 🌱 I’m currently learning everything
 - 📫 Trying to imporve myself everyday
 
+### Connect with me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+
 ## Quick overview
 
 - GitHub stats:  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alifrayhan02&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-  </a>
-
-<p align="left">
-  <a href="https://github.com/alifrayhan02">
-    <img height="192em" src="http://github-readme-streak-stats.herokuapp.com?user=Ionic12&theme=dark&background=000000)](https://git.io/streak-stats"/>
-    <img height="192em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alifrayhan02&layout=compact&langs_count=8&theme=dark&background=000000"/>
-   </a>
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alifrayhan02&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifrayhan02&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alifrayhan02&hide_border=true" />
+</details>
 
 ## 👨‍💻 Programming language that I'm learning
 
