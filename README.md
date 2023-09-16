@@ -8,19 +8,17 @@ Welcome to my GitHub! I'm an electronics engineering student who finds joy in pr
 
 ### Connect with me:
 
-[![Gmail Badge](https://img.shields.io/badge/-alifrayhan02.02@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alifrayhan02.02@gmail.com "Connect via Email")
-[![Twitter Badge](https://img.shields.io/badge/-@AnakBuahAJ1-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=AnakBuahAJ1 "Follow on Twitter")
 
 <p align="center"> 
-<a href="mailto:connect.shafin@gmail.com" target="_blank"><img alt="Mail"
+<a href="mailto:alifrayhan02.02@gmail.com" target="_blank"><img alt="Mail"
                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
 </a>
 <!-- Twitter -->
-<a href="https://twitter.com/connectshafin" target="_blank"><img alt="Twitter"
+<a href="https://twitter.com/AnakBuahAJ1" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
 </a>
 <!-- Linkedin -->
-<a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
+<a href="https://www.linkedin.com/in/alif-rayhan-95381921a/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
 </a>
 </p>
